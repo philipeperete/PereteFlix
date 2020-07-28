@@ -1,9 +1,11 @@
 <p align='center'><img width='200' src="./src/assets/img/logo.png"/></p>
-<h1 align='center'>PereteFlix - #ImersaoReact</h1>
+
+<h1 align='center'>PereteFlix - #ImersaoReact - Alura</h1>
+
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/philipeperete/ImersaoReact">
-<img src="https://img.shields.io/github/last-commit/philipeperete/ImersaoReact">
-<img src="https://img.shields.io/github/license/philipeperete/ImersaoReact">
+    <img src="https://img.shields.io/github/repo-size/philipeperete/ImersaoReact">
+    <img src="https://img.shields.io/github/last-commit/philipeperete/ImersaoReact">
+    <img src="https://img.shields.io/github/license/philipeperete/ImersaoReact">
 </p>
 
 _________
@@ -28,11 +30,15 @@ _________
 _________
 
 ## 🎨 Layout
-<img src="./src/assets/img/layout.png">
+
+<p align='center'>
+	<img witdh='200' src="./src/assets/img/layout.png">
+</p>
 
 _________
 
 ## 📝 Licença
+
 O projeto se encontra sob licença MIT.
 
 Para mais detalhes, acesse [license](LICENSE).
@@ -46,3 +52,5 @@ Agradecimentos [Alura][alura] 💜.
 * Github: [Philipe Perete](https://github.com/philipeperete).
 
 Feito com 💙 por **Philipe Perete** 👻.
+
+[alura]: https://www.alura.com.br/
