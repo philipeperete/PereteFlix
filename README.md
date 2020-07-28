@@ -1,6 +1,6 @@
-<p align='center'><img width='200' src="./src/assets/img/logo.png"/></p>
+<p align='center'><img width='500' src="./src/assets/img/logo.png"/></p>
 
-<h1 align='center'>PereteFlix - #ImersaoReact - Alura</h1>
+<h1 align='center'>#ImersaoReact - Alura</h1>
 
 <p align='center'>
     <img src="https://img.shields.io/github/repo-size/philipeperete/ImersaoReact">
