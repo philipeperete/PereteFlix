@@ -11,18 +11,21 @@
 _________
 
 ## 🔖 Descrição 
+
 <p>Criação do PereteFlix 🎥 </p>
-<p>App Web utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.</p>
+
+App Web utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.
 
 _________
 
 ## 🚀 Como executar o projeto
 
     # Clone esse repositório
-    $ git clone https://github.com/philipeperete/ImersaoReact
+    $ git clone https://github.com/philipeperete/PereteFlix
     
     # Instalar dependências
-    $ npm install
+    $ npm install 
+    $ npm install react-router-dom react-slick
     
     # Executar
     $ npm start
