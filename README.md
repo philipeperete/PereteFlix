@@ -1,4 +1,4 @@
-<p align='center'><img width='500' src="./src/assets/img/logo.PNG"/></p>
+<p align='center'><img width='500' src="./src/assets/img/logo.png"/></p>
 
 <h1 align='center'>#ImersaoReact - Alura</h1>
 
@@ -36,12 +36,12 @@ _________
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	<img alt="Layout" title="Home" width='350px' src="./src/assets/img/layout.PNG"> 
-
-    <br>
-    <img alt="Cadastro Vídeo" title="Cadastro Vídeo" width='300' src="./src/assets/img/cadastrovideo.PNG">
-    <img alt="Cadastro Categoria" title="Cadastro Categoria" width='300' src="./src/assets/img/cadastrocategoria.PNG">
-    <img alt="Tela de Erro 404" title="Tela de Erro 404" width='300' src="./src/assets/img/erro404.PNG">
+<img alt="Layout" title="Home" width='500' src="./src/assets/img/layout.png"> 
+<br>
+<img alt="Cadastro Vídeo" title="Cadastro Vídeo" width='300px' src="./src/assets/img/cadastrovideo.PNG">
+<img alt="Cadastro Categoria" title="Cadastro Categoria" width='300px' src="./src/assets/img/cadastrocategoria.PNG">
+<br>
+<img alt="Tela de Erro 404" title="Tela de Erro 404" width='500' src="./src/assets/img/erro404.PNG">
 </p>
 
 _________
