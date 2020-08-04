@@ -1,14 +1,24 @@
-import React from 'react'
-import PageDefault from '../PageDefault'
+import React from 'react';
+import Menu from '../../components/Menu';
+import Footer from '../../components/Footer';
+import img404 from '../../assets/img/404.svg';
+import { Img404, BackLink, Container, Span } from './styles';
 
-function Pagina404() {
-    return (
-        <PageDefault>
-            <div>
-                Pagina 404
-            </div>
-        </PageDefault>
-    )
-}
+const Page404 = () => {
+  return (
+    <>
+      <Menu />
+      <Container>
+        <Span>
+          {' '}
+          Essa página não existe. Ir para a {' '}
+          <BackLink to="/">home page</BackLink>.
+        </Span>
+        <Img404 src={img404} alt="404" />
+      </Container>
+      <Footer />
+    </>
+  );
+};
 
-export default Pagina404;
+export default Page404;

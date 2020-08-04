@@ -1,11 +1,11 @@
-<p align='center'><img width='500' src="./src/assets/img/logo.png"/></p>
+<p align='center'><img width='500' src="./src/assets/img/logo.PNG"/></p>
 
 <h1 align='center'>#ImersaoReact - Alura</h1>
 
 <p align='center'>
-    <img src="https://img.shields.io/github/repo-size/philipeperete/ImersaoReact">
-    <img src="https://img.shields.io/github/last-commit/philipeperete/ImersaoReact">
-    <img src="https://img.shields.io/github/license/philipeperete/ImersaoReact">
+    <img src="https://img.shields.io/github/repo-size/philipeperete/pereteflix">
+    <img src="https://img.shields.io/github/last-commit/philipeperete/pereteflix">
+    <img src="https://img.shields.io/github/license/philipeperete/pereteflix">
 </p>
 
 _________
@@ -14,7 +14,9 @@ _________
 
 <p>Criação do PereteFlix 🎥 </p>
 
-App Web utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.
+Vídeos sobre: séries, filmes, jogos, estudos, etc.
+
+Um App Web utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.
 
 _________
 
@@ -24,8 +26,7 @@ _________
     $ git clone https://github.com/philipeperete/PereteFlix
     
     # Instalar dependências
-    $ npm install 
-    $ npm install react-router-dom react-slick
+    $ npm install  
     
     # Executar
     $ npm start
@@ -34,8 +35,13 @@ _________
 
 ## 🎨 Layout
 
-<p align='center'>
-	<img witdh='200' src="./src/assets/img/layout.png">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	<img alt="Layout" title="Home" width='350px' src="./src/assets/img/layout.PNG"> 
+
+    <br>
+    <img alt="Cadastro Vídeo" title="Cadastro Vídeo" width='300' src="./src/assets/img/cadastrovideo.PNG">
+    <img alt="Cadastro Categoria" title="Cadastro Categoria" width='300' src="./src/assets/img/cadastrocategoria.PNG">
+    <img alt="Tela de Erro 404" title="Tela de Erro 404" width='300' src="./src/assets/img/erro404.PNG">
 </p>
 
 _________

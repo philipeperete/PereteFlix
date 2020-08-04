@@ -71,7 +71,7 @@ function CadastroCategoria() {
 
                         <ButtonBlue> Salvar </ButtonBlue>
 
-                        <Link to="/">
+                        <Link to="./video">
                             <ButtonCancel> Cancelar </ButtonCancel>
                         </Link>
 

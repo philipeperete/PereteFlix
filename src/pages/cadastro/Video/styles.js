@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const CategoryBase = styled.form`
+export const VideoBase = styled.form`
 
     width: 100%;
     width: 70%;
@@ -45,7 +45,7 @@ export const ButtonBlue = styled.button`
     }
 `
 
-export const ButtonCancel = styled.button`
+export const ButtonCategoria = styled.button`
 
     color: black;
     cursor: pointer;
