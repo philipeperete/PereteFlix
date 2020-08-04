@@ -10,13 +10,25 @@
 
 _________
 
+<h3 align="center">
+Clique <a href="http://pereteflix.vercel.app/" target="_blank">aqui</a> para ver a como está funcionando!! :fire::fire::fire:
+</h3>
+
 ## 🔖 Descrição 
 
 <p>Criação do PereteFlix 🎥 </p>
 
-Vídeos sobre: séries, filmes, jogos, estudos, etc.
+Um App Web com vídeos sobre: séries, filmes, jogos, estudos, etc.
 
-Um App Web utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.
+Criado utilizando React na semana da #ImersãoReact da [Alura][alura] 💜.
+
+_________
+
+## 🛠 Tecnologias
+
+- [React](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Vercel](https://vercel.com/dashboard)
 
 _________
 
